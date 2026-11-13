@@ -1,6 +1,6 @@
 # Awesome Free AI & Cloud Credits
 
-A curated, source-backed guide to current AI, cloud and developer credit programs. Maintained from [YESLOOT](https://yesloot.com) public listings. Provider terms and country, student or startup eligibility apply; a listed credit is not a cash grant.
+A curated, source-backed guide to current AI, cloud and developer credit programs. Maintained from YESLOOT public listings. Provider terms and country, student or startup eligibility apply; a listed credit is not a cash grant.
 
 Only source-verified current entries are included. YESLOOT is independent of the providers. Verification labels describe recorded evidence, not a redemption guarantee.
 
